@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @WajidSWE44
-- 👀 I’m interested in Learing and Exploring 
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Wajid
-- ⚡ Fun fact: ...
-
-<!---
-WajidSWE44/WajidSWE44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Wajid Ali, a certified Data Analyst with years of experience in Excel, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn), and big data processing. I specialize in turning raw data into clear insights, interactive dashboards, and predictive models that help businesses make smarter decisions.I’m Google Data Analytics Certified and currently pursuing a degree in Software Engineering, combining technical skills with problem-solving expertise to deliver accurate and visually impactful results. My approach is client-focused, detail-oriented, and results-driven — so you get exactly what you need, when you need it.Let’s work together to make your data work for you!
